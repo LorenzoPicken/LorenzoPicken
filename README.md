@@ -1,11 +1,11 @@
-<h1>Hi, my name is Lorenzo and welcome to my GitHub page.</h1>
+<h1>Hi, my name is Lorenzo</h1>
 <br>
-<p>I'm a student developper currently studying in video game programming.</p>
-<p>I will be using this page to show various small coolaborative and solo projects I've worked on over the years.</p>
+<p>A student developper studying video game programming with a passion for creating awesome games, application and websites using C#, C++ and Java as well as HTML, CSS and JavaScript.</p>
+<p>This page is where i will be sharing various projects that i work on both in the video game space as well as other programming related work.</p>
 <br>
-<p>Here are some games I have been involved in making:</p>
+<p>Here are some games I have been involved with making:</p>
 <ul>
-<li><a href="#" target="_blank">Death Delt Hand</a></li>
-<li><a href="#" target="_blank">Depth Crawler</a></li>
-<li><a href="#" target="_blank">Zombie Shooter</a></li>
+<li>:black_joker:<a href="#" target="_blank">Death Delt Hand</a></li>
+<li>:crossed_swords:<a href="#" target="_blank">Depth Crawler</a></li>
+<li>:gun:<a href="#" target="_blank">Zombie Shooter</a></li>
 </ul>
