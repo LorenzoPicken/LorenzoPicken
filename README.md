@@ -9,6 +9,6 @@
   <li>:gun:<a href="#" target="_blank">Zombie Shooter</a></li>
 </ul>
 <br>
-<p>Thank you for visiting my page and stay tuned for new updates as my *BIGGEST PROJECT YET* is under development and will be shared here in the near future.</p>
+<p>Cheers and thanks for visiting my page!</p>
 
 
