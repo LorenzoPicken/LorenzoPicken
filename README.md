@@ -4,7 +4,7 @@
 <br>
 <p>Here are some games I have been involved with making:</p>
 <ul>
-  <li>:black_joker:<a href="#" target="_blank">Death Dealt Hand</a></li>
+  <li>:black_joker:<a href="https://github.com/LorenzoPicken/Death-Dealt-Hand/tree/Lorenzo's-Branch" target="_blank">Death Dealt Hand</a></li>
   <li>:crossed_swords:<a href="https://github.com/LorenzoPicken/DepthCrawler.git" target="_blank">Depth Crawler</a></li>
   <li>:gun:<a href="#" target="_blank">Zombie Shooter</a></li>
 </ul>
