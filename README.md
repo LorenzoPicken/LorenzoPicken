@@ -6,7 +6,7 @@
 <ul>
   <li>:black_joker:<a href="https://github.com/LorenzoPicken/Death-Dealt-Hand/tree/Lorenzo's-Branch" target="_blank">Death Dealt Hand</a></li>
   <li>:crossed_swords:<a href="https://github.com/LorenzoPicken/DepthCrawler.git" target="_blank">Depth Crawler</a></li>
-  <li>:gun:<a href="#" target="_blank">Zombie Shooter</a></li>
+  <li>:gun:<a href="https://github.com/LorenzoPicken/Zombie_Shooter/tree/Lorenzo's-Branch" target="_blank">Zombie Shooter</a></li>
 </ul>
 <br>
 <p>Cheers and thanks for visiting my page!</p>
