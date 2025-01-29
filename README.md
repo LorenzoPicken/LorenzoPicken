@@ -4,6 +4,7 @@
 <br>
 <p>Here are some games I have been involved with making:</p>
 <ul>
+  <li>:shield:<a href="https://github.com/JestenAuger/Echos_Of_Fate/tree/Lorenzo's-Branch" target="_blank">Echos of Fate</a></li>
   <li>:black_joker:<a href="https://github.com/LorenzoPicken/Death-Dealt-Hand/tree/Lorenzo's-Branch" target="_blank">Death Dealt Hand</a></li>
   <li>:crossed_swords:<a href="https://github.com/LorenzoPicken/DepthCrawler.git" target="_blank">Depth Crawler</a></li>
   <li>:gun:<a href="https://github.com/LorenzoPicken/Zombie_Shooter/tree/Lorenzo's-Branch" target="_blank">Zombie Shooter</a></li>
