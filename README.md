@@ -9,7 +9,8 @@
   <li>:crossed_swords:<a href="https://github.com/LorenzoPicken/DepthCrawler.git" target="_blank">Depth Crawler</a></li>
   <li>:gun:<a href="https://github.com/LorenzoPicken/Zombie_Shooter/tree/Lorenzo's-Branch" target="_blank">Zombie Shooter</a></li>
 </ul>
-<br>
-<p>Cheers and thanks for visiting my page!</p>
+<p>If you're into Multiplayer Shooters, I invite you to checkout my current passion project that im working on called <a href="https://github.com/JestenAuger/TronArenaBR/tree/main">Project Gridstorm</a>!</p>
+Thanks for visiting my page and feel free to connect with me on <a href="https://www.linkedin.com/in/lorenzo-picken/">LinkedIn</a>!</p>
+<p>Cheers!</p>
 
 
