@@ -9,6 +9,13 @@
   <li>:crossed_swords:<a href="https://github.com/LorenzoPicken/DepthCrawler.git" target="_blank">Depth Crawler</a></li>
   <li>:gun:<a href="https://github.com/LorenzoPicken/Zombie_Shooter/tree/Lorenzo's-Branch" target="_blank">Zombie Shooter</a></li>
 </ul>
+<br>
+<p>
+Additionally, I worked as a full-stack developer at Grey-Box on 
+<a href="https://www.grey-box.ca/medical-codex/">Project Medical Codex</a>, where I contributed new features to the application 
+using <strong>PaddleOCR</strong> and <strong>ClamAV</strong>. These additions allowed the app to extract drug names from images and handle malicious files safely. 
+I also enhanced the UI using <strong>React</strong> and <strong>TypeScript</strong>.
+</p>
 <p>If you're into Multiplayer Shooters, I invite you to checkout <a href="https://github.com/JestenAuger/TronArenaBR/tree/main">Project Gridstorm</a>!  A passion project started by a small team of developers including myself, currently in pre-alpha.</p>
 
 
